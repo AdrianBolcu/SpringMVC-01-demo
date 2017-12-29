@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="springMVC01-gontuseries:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="springMVC01-gontuseries.war">
+      <element id="artifact" artifact-name="springMVC01-gontuseries:war exploded" />
+    </root>
+  </artifact>
+</component>
